@@ -1,2 +1,3 @@
 # Resume
-<img src="Michal Uchmanowicz Resume.pdf" width="75%" height="75%">
+<img src="Michal Uchmanowicz Resume-1.png">
+<img src="Michal Uchmanowicz Resume-2.png">
